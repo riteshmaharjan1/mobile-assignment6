@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Assignment6-CV-Builder</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="home">Home</string>
+    <string name="about_me">About Me</string>
+    <string name="work">Work</string>
+    <string name="contact">Contact</string>
+
+    <string name="cv">CV</string>
+
+    <string name="add">Add</string>
+
+    <string name="whatsapp">Whats App</string>
+    <string name="gmail">Gmail</string>
+    <string name="telegram">Telegram</string>
+    <string name="linkedin">LinkedIn</string>
+    <string name="cover_photo">Cover Photo</string>
+
+    <string name="name">Ritesh Maharjan</string>
+    <string name="position">Software Engineer</string>
+
+    <string name="career_note">Career Note</string>
+    <string name="career_note_desc"><b>Completed</b> on-campus studies and currently taking distance education courses to complete a <b>Masters Degree in Computer Science </b>(Available for full-time, W-2 employment).</string>
+    <string name="work_experience">Work Experience</string>
+    <string name="work_experience_desc"><b>Language: </b>Java, .NET, JavaScript \n<b>Frameworks/web: </b>Spring(Boot, Cloud, Security), Hibernate, Angular, Express, Node, .NET Core \n<b>Microservices/Cloud: </b>AWS, GCP, Docker, Kafka \n<b>Databases: </b>MS SQL, PostgreSQL, MongoDB \n<b>Tools: </b>IntelliJ, Visual Studio, VS Code, Eclipse, JIRA, Bitbucket, TFS, Git, Maven, StarUML, Postman \n</string>
+
+    <string name="about_me_desc">Skilled software developer having more than 8 years of hands-on experience designing, developing, and implementing software solutions using a range of technologies and programming languages.</string>
+
+    <string name="education">Education</string>
+    <string name="my_college">My College</string>
+    <string name="certification">Certification</string>
+
+    <string name="my_contacts">My Contacts</string>
+
+    <string name="information_to_share">
+        Name: Ritesh Maharjan
+        LinkedIn Profile: https://www.linkedin.com/in/riteshmaharjan247
+    </string>
+
+    <string name="email">riteshmaharjan@miu.edu</string>
+    <string name="linkedin_profile">https://www.linkedin.com/in/riteshmaharjan247</string>
+    <string name="github_profile">https://github.com/riteshmaharjan1</string>
+
+    <string name="login">login</string>
+    <string name="enter_email">Enter your email here…</string>
+    <string name="enter_password">Enter your password here…</string>
+</resources>
